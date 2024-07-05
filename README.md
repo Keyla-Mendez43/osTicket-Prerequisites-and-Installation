@@ -5,7 +5,7 @@
 <h1>osTicket-Prerequisites-and-Installation</h1>
 
 <h1>Enviornments and Technologies Used</h1>
-  - Microsoft Azure (Virtual Machines/Computer) 
+  - Microsoft Azure (Virtual Machines/Computer) <br>
   - Remote Desktop 
   - Internt Information Services (IIS) 
 
