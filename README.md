@@ -6,7 +6,9 @@
 
 <h1>Enviornments and Technologies Used</h1>
   - Microsoft Azure (Virtual Machines/Computer)
+  
   - Remote Desktop
+    
   - Internt Information Services (IIS)
 
 <h1>Operating Systems Used</h1>
