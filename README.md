@@ -28,3 +28,12 @@ In the image above, the Virtual Machines osTicket has been created and the VM is
 ![image](https://github.com/Keyla-Mendez43/osTicket-Prerequisites-and-Installation/assets/174077223/49cb23f9-6662-4780-ab09-59c2cb9c261d)
 
 In the image above, The (IIS) is being downloaded on the VM.
+
+![image](https://github.com/Keyla-Mendez43/osTicket-Prerequisites-and-Installation/assets/174077223/ccab3ad8-f28a-4b39-95bd-4dd5820704ad)
+
+In the image above, the PHP is being downloaded.
+
+![image](https://github.com/Keyla-Mendez43/osTicket-Prerequisites-and-Installation/assets/174077223/dde7585e-008c-4808-9e34-a1165063739e)
+
+In the image above, rewrite module is being downloaded.
+
