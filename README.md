@@ -13,10 +13,12 @@
   - Windows 10 (21H2)
 
 <h1>List of Prerequistes</h1>
-  - Item 1 <br>
-  - Item 2 <br>
-  - Item 3 <br>
-  - Item 4 <br>
+  - Resource Group <br>
+  - Virual Network <br>
+  - Virtual Machines <br>
+  - osTicket <br>
   - Item 5 <br>
 
 <h1>Installation Steps</h1>
+
+![image](https://github.com/Keyla-Mendez43/osTicket-Prerequisites-and-Installation/assets/174077223/6e8f14b4-6044-40e7-9f0b-a4a36e4357ce)
