@@ -24,3 +24,7 @@
 ![image](https://github.com/Keyla-Mendez43/osTicket-Prerequisites-and-Installation/assets/174077223/6e8f14b4-6044-40e7-9f0b-a4a36e4357ce)
 
 In the image above, the Virtual Machines osTicket has been created and the VM is in a resource group called RG-osTicket.
+
+![image](https://github.com/Keyla-Mendez43/osTicket-Prerequisites-and-Installation/assets/174077223/49cb23f9-6662-4780-ab09-59c2cb9c261d)
+
+In the image above, The (IIS) is being downloaded on the VM.
