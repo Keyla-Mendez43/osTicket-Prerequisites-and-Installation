@@ -35,5 +35,12 @@ In the image above, the PHP is being downloaded.
 
 ![image](https://github.com/Keyla-Mendez43/osTicket-Prerequisites-and-Installation/assets/174077223/dde7585e-008c-4808-9e34-a1165063739e)
 
-In the image above, rewrite module is being downloaded.
+In the image above, Rewrite Module is being downloaded.
 
+![image](https://github.com/Keyla-Mendez43/osTicket-Prerequisites-and-Installation/assets/174077223/5c3d792c-76bb-40e0-8441-8d827aad6ce6)
+
+In the image above, MySQL has been downloaded and its being set up.
+
+![image](https://github.com/Keyla-Mendez43/osTicket-Prerequisites-and-Installation/assets/174077223/5f1e7ab3-223e-49cf-82d4-126f449e0c91)
+
+In the image above, the osTicket has succesfully been installed.
