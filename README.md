@@ -4,6 +4,8 @@
 
 <h1>osTicket-Prerequisites-and-Installation</h1>
 
+Create a virtual machine and download all the requirements for osTicket.
+
 <h1>Enviornments and Technologies Used</h1>
   - Microsoft Azure (Virtual Machines/Compute) <br>
   - Remote Desktop <br>
